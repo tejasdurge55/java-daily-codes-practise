@@ -1,6 +1,6 @@
 //https://practice.geeksforgeeks.org/problems/java-arraylist5312/1
 package arraylists_basics;
-import java.util.ArrayList;
+import java.util.*;
 
 public class ArrayList_Part_1_gfg {
     public static void main(String[] args) {
@@ -23,6 +23,19 @@ public class ArrayList_Part_1_gfg {
             ArrayList<Integer> b=solve(N,A,Q,Query);
             System.out.println(b.toString());
 
+//            List<String> list_Strings = new ArrayList<String>();
+//            list_Strings.add("Red");
+//            list_Strings.add("Green");
+//            list_Strings.add("Orange");
+//            list_Strings.add("White");
+//            list_Strings.add("Black");
+//            System.out.println(list_Strings);
+//            Collections.sort(list_Strings);
+//            System.out.println("List after sort: "+list_Strings);
+//            Collections.shuffle(list_Strings);
+//            System.out.println("List after shuffling:\n" + list_Strings);
+//            Collections.reverse(list_Strings);
+//            System.out.println("List after reversing :\n" + list_Strings);
     }
 //    static ArrayList<Integer> solve(int N, ArrayList<Integer> A, int Q, ArrayList<Integer> Query) 
 //    { 
