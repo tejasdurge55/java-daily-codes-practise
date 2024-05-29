@@ -12,7 +12,7 @@ public class child {
     public static void main(String[] args) {
 
         // parent.display();
-        String[][] board = { { "A", "B", "C", "Z" },
+        String[][] board = { { "A", "B", "C", "E" },
                 { "S", "F", "C", "S" },
                 { "A", "D", "E", "E" } };
 
