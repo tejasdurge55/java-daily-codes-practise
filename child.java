@@ -3,7 +3,7 @@ package arrays_easy;
 
 class parent {
     public static void display() {
-        System.out.println("displa");
+        System.out.println("display");
     }
 }
 
