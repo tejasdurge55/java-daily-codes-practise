@@ -5,7 +5,7 @@ public class gfg_Geek_Jump {
 
     // public static void main(String args[]) {
     // int n = 4;
-    // int[] height = { 10, 20, 30, 10 };
+    // int[] height = { 10, 20, 30, 15 };
     // System.out.println(minimumEnergy(height, n - 1));
     // }
 
